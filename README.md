@@ -3,7 +3,7 @@
 
 
 ### What it does
-It goes on myinstants.com/search and query the search, gets the first result, download the song from it and play everything automatically, then deletes the file.
+It goes on myinstants.com/search and query the search, gets the first result, downloads the song from it and plays everything automatically, then deletes the file.
 
 ## Installation
 - clone this repo
