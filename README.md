@@ -1,5 +1,9 @@
 # Python MyInstants
-[Myinstants](https://www.myinstants.com/) on terminal  
+[Myinstants](https://www.myinstants.com/) on terminal.  
+
+
+### What it does
+It goes on myinstants.com/search and query the search, gets the first result, download the song from it and play everything automatically, then deletes the file.
 
 ## Installation
 - clone this repo
